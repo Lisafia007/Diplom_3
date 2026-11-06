@@ -1,0 +1,4 @@
+from .navigation_page_locators import NavigationPageLocators
+from .ingredients_page_locators import IngredientsPageLocators
+from .order_page_locators import OrderPageLocators
+from .base_page_locators import BasePageLocators
